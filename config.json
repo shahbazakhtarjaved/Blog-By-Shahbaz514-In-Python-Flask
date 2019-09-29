@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_servar" : "True",
+        "local_uri" : "mysql://root:@localhost/PythonBlogWithFlask",
+        "prod_uri" : "mysql://root:@localhost/PythonBlogWithFlask",
+        "fb_url" : "https://facebook.com/pages/BuyIslamicBooksOnline",
+        "tw_url" : "https://twitter.com/pages/BuyIslamicBooksOnline",
+        "gp_url" : "https://sites.google.com/view/shahbaz514",
+        "blog_name" : "Shahbaz786",
+        "sub_haeding" : "A Python Website With Flask By SHAHBAZ786.INC",
+        "gmail-user" : "aw84772@gmail.com",
+        "gmail-password" : "MaharShahbaz786",
+        "about_title" : "About Me",
+        "about_sub_heading" : "This is what I do.",
+        "about_text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?",
+        "no_of_posts" : 5,
+        "admin_user" : "admin",
+        "admin_password" : "12345",
+        "upload_location" : "F:\\Python\\Python Projects\\shahbaz514_blog\\static\\img"
+    }
+}
